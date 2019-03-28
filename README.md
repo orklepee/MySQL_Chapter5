@@ -1,2 +1,2 @@
-# MySql_Chapter5_Materials
-MySQL Chapter 5 Materials from class.
+# Database Scripts
+TAL Distributers and Colonial Adventure Tours database script files.
